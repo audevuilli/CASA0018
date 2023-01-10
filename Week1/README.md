@@ -1,4 +1,4 @@
-CASA0018 - Lecture #1
+**CASA0018 - Lecture #1**
 
 What are some key things to remember from the lecture? 
 
@@ -25,5 +25,5 @@ A few definitions:
 - Learning: Finding the right weights and biases. 
 
 Useful Links:
--[3Blue1Brown “But what is a neural network? | Chapter 1, Deep Learning”](https://www.youtube.com/watch?v=aircAruvnKk)
+- [3Blue1Brown “But what is a neural network? | Chapter 1, Deep Learning”](https://www.youtube.com/watch?v=aircAruvnKk)
 
